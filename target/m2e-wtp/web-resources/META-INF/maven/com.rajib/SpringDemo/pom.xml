@@ -45,6 +45,6 @@
     
   </dependencies>
   <build>
-    <finalName>SpringDemo</finalName>
+    <finalName>SpringMvcDemo</finalName>
   </build>
 </project>
